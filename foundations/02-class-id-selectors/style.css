@@ -1,0 +1,20 @@
+.odd {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+
+}
+
+.subsection {
+    font-size: 24px;
+}
+
+#style-blue {
+    font-size: 36px;
+    color: blue;
+}
+
+#style-green {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24;
+}
